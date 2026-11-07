@@ -2,7 +2,7 @@
 
 This application creates a connection to a PostgreSQL database and performs CRUD operations on a `students` table using [psycopg 3](https://www.psycopg.org/psycopg3/).
 
-**Video demonstration:** [link here](https://example.com)
+**Video demonstration:** [link here](https://www.youtube.com/watch?v=0AQAhr-gqjU)
 
 ## Repository Structure
 
